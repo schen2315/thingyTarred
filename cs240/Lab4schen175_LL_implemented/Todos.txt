@@ -1,0 +1,30 @@
+Today is Oct 10, For next time:
+-finish/rewrite writing Sentence + word function
+	-create the deep copy of Sentence
+-check that s.show() in the test function in driver works as intended
+-check that deep copies are being made and originals are not being overwritten
+-check that linkedlist portions of Word work as intended
+-finish the linkedList portions of Sentence
+
+Today is Oct 11, For next time:
+-figure out implications of using assignment operator				
+-remove all of my implementations for the copy constructor
+-make sure NOT to return anything on the heap
+-keep in mind that i may be using WAY too many friend functions
+
+Today is Oct 12, For next time:
+-"copy" the linkedlist code into Parapgrah and Story				almost done
+-link up YuHeng's driver w/ my code									COMPLETED
+-check that Paragraph and Story work w/ YuHeng's driver				haven't gotten to it yet
+
+Oct 14:
+-Finish Story linked list code										COMPLETED
+-Check that YuHeng's code works w/ mine
+-Ask YuHeng how to write the first and rest functions				COMPLETED
+-Work on the i++, i--, ++i, --i functionality
+-Once linked list code works, checkpoint and 
+	check that it works on the remote
+-Use Valgrind to check for memory leaks				
+
+
+
